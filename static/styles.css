@@ -29,14 +29,12 @@ th {
     width: 10%;
     border: 1px solid grey;
     text-align: center;
-    color: white;
 }
 
 table {
     width: 100%;
     text-align: center;
     border: 1px solid;
-    color: white;
 }
 
 tfoot {
@@ -47,7 +45,6 @@ tfoot {
 td {
     width: 10%;
     border: 1px solid grey;
-    color: white;
 }
 
 
@@ -65,11 +62,6 @@ h3 {
     padding: 10px;
     margin: 20px;
     border-radius: 20px
-}
-
-body {
-    background-color: #3A4345;
-    color: white;
 }
 
 #block {
@@ -212,81 +204,6 @@ td:hover {
     line-height: 25px;
     display: flex;
     justify-content: space-between;
-}
-
-#Ferrari {
-    background-color: #EF1A2D;
-    color: white;
-}
-
-#RedBull {
-    background-color: #23326A;
-    color: white;
-}
-
-#ForceIndia {
-    background-color: #F363B9;
-    color: white;
-}
-
-#McLaren {
-    background-color: #FF8000;
-    color: white;
-}
-
-#Mercedes {
-    background-color: #00A19B;
-    color: white;
-}
-
-#AstonMartin {
-    background-color: #117a4d;
-    color: white;
-}
-
-#AlpineF1Team {
-    background-color: #02192B;
-    color: white;
-}
-
-#Williams {
-    background-color: #00A0DE;
-    color: white;
-}
-
-#HaasF1Team {
-    background-color: #E6002B;
-    color: white;
-}
-
-#AlfaRomeo {
-    background-color: #A42134;
-    color: white;
-}
-
-#AlphaTauri {
-    background-color: #20394C;
-    color: white;
-}
-
-#Sauber {
-    background-color: #3bff6f;
-    color: black;
-}
-
-#RBF1Team {
-    background-color: #2b7cff;
-    color: white;
-}
-
-#Dry {
-    background-color: #fcd01f;
-    color: rgb(1, 0, 0);
-}
-
-#Wet {
-    background-color: #5c9bff;
-    color: white;
 }
 
 #Yes {
