@@ -20,6 +20,22 @@ def index():
         "index.html"
     )
 
+@app.route("/html", methods=["GET"])
+def html():
+    ''' Show's main page including upcoming race info '''
+
+    return render_template(
+        "wx.html"
+    )
+
+@app.route("/htx", methods=["GET"])
+def htx():
+    ''' Show's main page including upcoming race info '''
+
+    return render_template(
+        "wx.htx"
+    )
+
 
 @app.route("/cameras", methods=["GET"])
 def cameras():
